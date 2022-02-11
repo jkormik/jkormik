@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @jkormik
-- 👀 I’m interested in data manipulation, Python and computer vision
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me: berryknoedel@gmail.com
+<h1 align="center">Hi there, I'm <a href="https://t.me/Jaunmia" target="_blank">Andrey</a></h1>
+<h3 align="center">Python developer, translator, music enthusiast from Russia 🇷🇺</h3>
 
 <!---
 jkormik/jkormik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
